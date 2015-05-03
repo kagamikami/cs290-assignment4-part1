@@ -5,7 +5,3 @@ Tasks: finish multtable.php & loopback.php
 Start: Sun, 3 May 2015 10:36:25 +0800 
 End: Sun, 3 May 2015 12:21:01 +0800
 Tasks: finish login.php content1.php content2.php
-
-Start: Sun, 3 May 2015 12:45:50 +0800 
-End: Sun, 3 May 2015 14:33:16 +0800
-Tasks: debug and modify login part on engr server
